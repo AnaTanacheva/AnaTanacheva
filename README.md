@@ -1,34 +1,33 @@
 Всем привет 👋
-
-<!--My name is Anastasiya Tanacheva
-
-- 🌱 I’m currently learning at HSE University (Saint Petesburg) and getting Master's degree in Data Analytics for Business and Economics.  
-- 👯 I’m really interested in data analysis and I have always wanted to become a professional in this field. 
-- 🤔 I’m looking for help with data analysis, using particularly SQL, Excel and Python for it.
-- 🔭 Recently I was working as a journalist in the newspaper called Kommersant which covers a wide range of economic and political questions. It has boosted me a lot and now I am able to explain some comprehensive but extremelly interesting themes effectively! 
-- 📫 Connect me with: 
+Я аналитик данных с опытом работы с SQL, Python, Excel и BI-системы. 
+Несколько фактов обо мне:
+- 🌱 Являюсь студентом магистратуры Data Analytics for Business and Economics в НИУ ВШЭ (Санкт-Петербург);  
+- 👯 Интересуюсь анализом данных и созданием историй по ним; 
+- 🤔 Прошла курс профессиональной переквалификации "Аналитик данных" в Яндекс Практикум;
+- 🔭 Имею Certificate in Advanced English (CAE, подтвержденный уровень владения английским - C1);
+- 📇 В течение 2,5 лет работала корреспондентом издания "Коммерсантъ". Освещала экономические, а также политические и культурные темы. Мой опыт полезен тем, что я могу объяснить сложные понятия и ситуации простым языком, не упустив при этом важных деталей.
+- 📫 Мои контакты:
 https://t.me/AnaTanacheva
 https://vk.com/anastasiatanacheva
 
-My skills:
-🤓Advanced level
+Мои навыки:
+🤓Продвинутый уровень
 MS Excel
-Researching
+Сбор и анализ информации
 Power BI
-Data visualisation
-Data preprocessing
+Визуализация данных
+Предобработка данных
 DataLens
-Data intrepretation
+Интерпретация данных
 
-🤓Middle level
+🤓Средний уровень
 SQL
 PostgreSQL
 Jupyter Notebook
-A/B tests
-Working with databases
-Analytical research
+A/B тесты
+Работа с базами данных
+Аналитические исследования
 
-🤓Basic level
+🤓Базовый уровень
 Python
 pandas
--->
