@@ -20,14 +20,5 @@
 
 - https://vk.com/anastasiatanacheva
   
-- 📌 С чем умею работать:
-
-- MS Excel
-- Power BI
-- DataLens
-- SQL
-- Jupyter Notebook
-- A/B тесты
-- Python
-- pandas
+- 📌 С чем умею работать: MS Excel, Power BI, DataLens, SQL, Jupyter Notebook, A/B тесты, Python
 
